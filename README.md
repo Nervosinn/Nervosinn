@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nervosinn
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Laravel, VueJS.
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 📫 How to reach me: Instagram: @bonettelucas
 
 <!---
