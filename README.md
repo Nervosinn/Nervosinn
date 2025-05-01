@@ -34,10 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nervosinn/Nervosinn/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="150" src="https://imgflip.com/gif/9sadmi"  />
 </div>
