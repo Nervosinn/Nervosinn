@@ -33,7 +33,5 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEyM3AxYTlkcWswNnR6eTE2anlkNnVrcHluMmI0a2dxZHg4eWxhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STx3VQPPCgvbzIKlw4/giphy.gif"  />
-
+![San Francisco Overwatch GIF by NRG Esports   SF Shock](https://github.com/user-attachments/assets/2c8a76bc-75d0-4ebe-8840-80c7ab5fabbf)
 ###
