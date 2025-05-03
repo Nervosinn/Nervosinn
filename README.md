@@ -33,14 +33,7 @@
 </div>
 
 ###
-<img align="left" height="600" src="https://www.awesomescreenshot.com/video/39410001?key=df164a027ce6890bde385f25226ea859"  />
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEyM3AxYTlkcWswNnR6eTE2anlkNnVrcHluMmI0a2dxZHg4eWxhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STx3VQPPCgvbzIKlw4/giphy.gif"  />
+
 ###
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nervosinn/Nervosinn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nervosinn/Nervosinn/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nervosinn/Nervosinn/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
