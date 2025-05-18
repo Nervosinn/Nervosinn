@@ -32,6 +32,8 @@
   </a>
 </div>
 
+<div align="center">
 ###
 ![San Francisco Overwatch GIF by NRG Esports   SF Shock](https://github.com/user-attachments/assets/2c8a76bc-75d0-4ebe-8840-80c7ab5fabbf)
 ###
+</div>
